@@ -1,0 +1,8 @@
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\httpPost\bin\Debug\httpPost.exe.config
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\httpPost\bin\Debug\httpPost.exe
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\httpPost\bin\Debug\httpPost.pdb
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\httpPost\obj\Debug\httpPost.csprojResolveAssemblyReference.cache
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\httpPost\obj\Debug\httpPost.exe
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\httpPost\obj\Debug\httpPost.pdb
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\httpPost\bin\Debug\MyService.dll
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\httpPost\bin\Debug\MyService.pdb

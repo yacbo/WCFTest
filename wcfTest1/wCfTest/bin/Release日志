@@ -1,0 +1,4 @@
+
+[2017-08-21 09:55:36.675]告警记录:{"root":{"@type":"object","alarmId":{"@type":"array","item":{"@type":"object","AlarmLevel":{"@type":"null"},"SubsysName":{"@type":"null"},"AlarmName":{"@type":"null"},"ObjectName":{"@type":"null"},"AlarmId":{"@type":"number","#text":"0"},"AlarmTime":{"@type":"null"},"AlarmCode":{"@type":"number","#text":"0"},"SubsysId":{"@type":"number","#text":"0"},"AlarmDesc":{"@type":"string","#text":"123123"},"AlarmLocation":{"@type":"null"},"AlarmObjectid":{"@type":"number","#text":"0"},"Status":{"@type":"number","#text":"0"},"AlarmAcktime":{"@type":"null"},"AlarmAckuser":{"@type":"null"},"AlarmProctime":{"@type":"null"},"AlarmProcuser":{"@type":"null"},"AlarmProcdesc":{"@type":"null"},"AlarmRecovertime":{"@type":"null"},"AlarmRecoveruser":{"@type":"null"}}}}}
+[2017-08-21 09:55:36.718]车辆记录：carPlate:65421,passTime:,passType:0,laneId:
+[2017-08-21 09:55:36.729]门记录：LogId:0,DoorId:0,CardType:0,OwnerName:,CardType:0,Desc:,DoorName:

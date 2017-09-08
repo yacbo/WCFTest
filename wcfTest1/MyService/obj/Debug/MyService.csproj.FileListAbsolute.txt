@@ -1,0 +1,11 @@
+G:\工作\Projects\C++\wCfTest\MyService\bin\Debug\MyService.dll
+G:\工作\Projects\C++\wCfTest\MyService\bin\Debug\MyService.pdb
+G:\工作\Projects\C++\wCfTest\MyService\obj\Debug\MyService.dll
+G:\工作\Projects\C++\wCfTest\MyService\obj\Debug\MyService.pdb
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\MyService\bin\Debug\MyService.dll
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\MyService\bin\Debug\MyService.pdb
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\MyService\obj\Debug\MyService.dll
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\MyService\obj\Debug\MyService.pdb
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\MyService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\MyService\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\yangkai\Desktop\wCfTest\wCfTest\MyService\bin\Debug\Newtonsoft.Json.xml
