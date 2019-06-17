@@ -14,8 +14,6 @@ namespace MyService
         [OperationContract]
         int GetLength(string name);
 
-
-
         //门记录
         [OperationContract]
         [WebInvoke(UriTemplate = "/doorRecordIBMS/createBlacklistRecord", Method = "POST", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Bare)]
@@ -32,4 +30,14 @@ namespace MyService
         void AlarmRecord(Object almList);
 
     }
+
+
+    [ServiceContract]
+    public interface IHttpsService
+    {
+        [OperationContract]
+        [WebInvoke(UriTemplate = "/Test", Method = "POST", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Bare)]
+        List<int> Test(); 
+    }
+
 }

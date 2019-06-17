@@ -60,4 +60,16 @@ namespace MyService
         }
 
     }
+
+    public class HttpsService : IHttpsService
+    {
+        public List<int> Test()
+        {
+            List<int> list = new List<int>() { 1,2,3};
+            return list;
+        }
+    }
+
+
+
 }

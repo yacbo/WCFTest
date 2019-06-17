@@ -17,3 +17,17 @@ C:\Users\Administrator\Desktop\wCfTest\wCfTest\wCfTest\MyService\bin\Release\New
 C:\Users\Administrator\Desktop\wCfTest\wCfTest\wCfTest\MyService\bin\Release\Newtonsoft.Json.xml
 C:\Users\Administrator\Desktop\wCfTest\wCfTest\wCfTest\MyService\obj\Release\MyService.dll
 C:\Users\Administrator\Desktop\wCfTest\wCfTest\wCfTest\MyService\obj\Release\MyService.pdb
+G:\工作\Projects\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\MyService.dll
+G:\工作\Projects\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\MyService.pdb
+G:\工作\Projects\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\Newtonsoft.Json.dll
+G:\工作\Projects\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\Newtonsoft.Json.pdb
+G:\工作\Projects\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\Newtonsoft.Json.xml
+G:\工作\Projects\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\obj\Release\MyService.dll
+G:\工作\Projects\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\obj\Release\MyService.pdb
+F:\工作目录\Projects\C#Project\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\MyService.dll
+F:\工作目录\Projects\C#Project\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\MyService.pdb
+F:\工作目录\Projects\C#Project\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\Newtonsoft.Json.pdb
+F:\工作目录\Projects\C#Project\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\bin\Release\Newtonsoft.Json.xml
+F:\工作目录\Projects\C#Project\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\obj\Release\MyService.csprojResolveAssemblyReference.cache
+F:\工作目录\Projects\C#Project\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\obj\Release\MyService.dll
+F:\工作目录\Projects\C#Project\wcfTest\WCfTest\WCFTest\wcfTest1\MyService\obj\Release\MyService.pdb
